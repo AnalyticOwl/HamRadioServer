@@ -1,0 +1,6 @@
+vendor/
+template/
+cache/
+
+composer.lock
+composer.phar
